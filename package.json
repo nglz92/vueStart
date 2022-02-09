@@ -1,0 +1,33 @@
+{
+  "name": "vite-vue3-tailwind-starter",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite --host",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "gsap": "^3.9.1",
+    "three": "^0.134.0",
+    "troisjs": "^0.3.3",
+    "vue": "^3.2.26",
+    "vue-router": "^4.0.12",
+    "vue-scrollactive": "^0.9.3",
+    "vue3-carousel": "^0.1.35",
+    "vue3-smooth-scroll": "^0.8.1"
+  },
+  "devDependencies": {
+    "@headlessui/vue": "^1.4.2",
+    "@heroicons/vue": "^1.0.5",
+    "@tailwindcss/aspect-ratio": "^0.4.0",
+    "@tailwindcss/forms": "^0.4.0",
+    "@tailwindcss/line-clamp": "^0.3.0",
+    "@tailwindcss/typography": "^0.5.0",
+    "@types/tailwindcss": "^3.0.1",
+    "@vitejs/plugin-vue": "^2.0.1",
+    "autoprefixer": "^10.4.1",
+    "sass": "^1.48.0",
+    "tailwindcss": "^3.0.11",
+    "vite": "^2.7.10"
+  }
+}
