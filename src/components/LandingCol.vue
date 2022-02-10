@@ -6,7 +6,7 @@
     </div>
     <img
       class="w-full h-full object-cover"
-      :src="`/src/assets/img/${imageUrl}`"
+      :src="`@/assets/img/${imageUrl}`"
       :alt= imageUrl
     />
   </div>
