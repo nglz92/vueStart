@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "gsap": "^3.9.1",
-    "three": "^0.134.0",
+    "three": "^0.149.0",
     "troisjs": "^0.3.3",
     "vue": "^3.2.26",
     "vue-router": "^4.0.12",
